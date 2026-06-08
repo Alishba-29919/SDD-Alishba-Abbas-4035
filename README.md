@@ -2,7 +2,7 @@
 VocalDine: AI-Powered Voice-Interactive Smart Menu System
 VocalDine is my final year project designed to modernize the dining experience. It replaces traditional paper menus with an AI-driven, voice-interactive web application, allowing customers to browse and order food hands-free.
 
-🛠 Tech Stack
+# Tech Stack
 => I have built this project using the following technologies:
 
 => Frontend: React.js for building dynamic UI components.
